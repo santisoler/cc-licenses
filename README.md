@@ -3,12 +3,11 @@
 In this repo you can find easy ways for applying Creative Commons Licenses on 
 Github repositories.
 
-**
-WARNING:
+**WARNING:**
 Your shouldn't use Creative Commons licenses for software.
 Use Free Software Licenses for that kind of repositories, like GPL, BSD, etc.
 Creative Commons Licenses are ment for intellectual works only.
-**
+
 
 The easiest way for finding the right CC License for your project is the
 [Creative Commons website](https://creativecommons.org/choose/).
