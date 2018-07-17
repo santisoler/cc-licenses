@@ -15,7 +15,7 @@ The easiest way for finding the right CC License for your project is the
 More information about licenses, and plain-text formatted licenses texts can 
 be found on [https://choosealicense.com/](https://choosealicense.com/).
 
-Here we present three types of CC Licenses:
+Here we present two types of CC Licenses:
 
 * Creative Commons Attribution 4.0 International
 
