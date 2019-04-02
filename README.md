@@ -1,6 +1,6 @@
-# Creative Commons Licenses for GitHub
+# Creative Commons Licenses for GitHub Projects
 
-In this repo you can find easy ways for applying Creative Commons Licenses on 
+In this repo you can find easy ways for applying Creative Commons Licenses on
 Github repositories.
 
 > **WARNING:**
@@ -12,22 +12,24 @@ Github repositories.
 The easiest way for finding the right CC License for your project is the
 [Creative Commons website](https://creativecommons.org/choose/).
 
-More information about licenses, and plain-text formatted licenses texts can 
-be found on [https://choosealicense.com/](https://choosealicense.com/).
-
 Here we present two types of CC Licenses:
 
 * Creative Commons Attribution 4.0 International
 
 * Creative Commons Attribution-ShareAlike 4.0 International
 
+More information about licenses, and plain-text formatted licenses texts can
+be found on https://choosealicense.com/.
+
+If you want to download vectorized version of Creative Commons images and other related
+stuff, please visit https://creativecommons.org/about/downloads/.
 
 
 ## CC Attribution 4.0 International
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International 
+This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
