@@ -1,5 +1,11 @@
 # Creative Commons Licenses for GitHub Projects
 
+* [CC Attribution 4.0 International](#cc-attribution-40-international)
+* [CC Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
+* [Translations](#translations)
+
+---
+
 In this repo you can find easy ways for applying Creative Commons Licenses on
 Github repositories through Markdown language.
 
@@ -87,3 +93,15 @@ International License][cc-by-sa].
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+## Translations
+
+<table>
+  <tr>
+    <td><img src="https://flaglane.com/download/german-flag/german-flag-graphic.png" width="32"/></td>
+    <td><a href="[DE] German/README.md">README</a></td>
+    <td><a href="[DE] German/de_LICENSE-CC-BY">CC BY</a></td>
+    <td><a href="[DE] German/de_LICENSE-CC-BY-SA">CC BY-SA</a></td>
+    <td><em>Created by <a href="https://github.com/Cyb3rKo">Cyb3rko</a></em></td>
+	</tr>
+</table>
