@@ -2,8 +2,6 @@
 
 [![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/)
 
----
-
 In this repo you can find easy ways for applying Creative Commons Licenses on Github repositories through Markdown language.
 
 > **WARNING:**
