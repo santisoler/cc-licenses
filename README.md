@@ -99,7 +99,7 @@ International License][cc-by-sa].
 <table>
   <tr>
     <td><img src="https://flaglane.com/download/german-flag/german-flag-graphic.png" width="32"/></td>
-    <td><a href="[DE] German/README.md">README</a></td>
+    <td><a href="[DE] German/de_README.md">README</a></td>
     <td><a href="[DE] German/de_LICENSE-CC-BY">CC BY</a></td>
     <td><a href="[DE] German/de_LICENSE-CC-BY-SA">CC BY-SA</a></td>
     <td><em>Created by <a href="https://github.com/Cyb3rKo">Cyb3rko</a></em></td>
