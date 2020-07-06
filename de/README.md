@@ -39,7 +39,8 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
+Diese Arbeit unterliegt den Bestimmungen einer
+[Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -69,7 +70,8 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International-Lizenz][cc-by].
+Diese Arbeit unterliegt den Bestimmungen einer
+[Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International-Lizenz][cc-by].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 

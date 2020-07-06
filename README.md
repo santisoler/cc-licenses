@@ -36,7 +36,8 @@ file](LICENSE-CC-BY) and rename it to `LICENSE`.
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -66,7 +67,8 @@ file](LICENSE-CC-BY-SA) and rename it to `LICENSE`.
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
