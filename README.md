@@ -1,6 +1,6 @@
 # Creative Commons Licenses for GitHub Projects
 
-[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/README.md)
+[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/)
 
 ---
 
