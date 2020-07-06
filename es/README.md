@@ -1,44 +1,35 @@
 # Licencias Creative Commons para proyectos de Github
 
-[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/)
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
+[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/)
 
-In this repo you can find easy ways for applying Creative Commons Licenses on
-Github repositories through Markdown language.
-
-En este repositorio podrás encontrar formas sencillas de aplicar Licencias Creative Commons
+En este repositorio podrá encontrar formas sencillas de aplicar Licencias Creative Commons
 en repositorios Github a través del lenguaje Markdown.
 
-> **WARNING:**
-> You shouldn't use Creative Commons licenses for software.
-> Use Free Software Licenses for that kind of repositories, like GPL, BSD, etc.
-> Creative Commons Licenses are ment for intellectual works only.
-
 > **ADVERTENCIA:**
-> No deberías usar licencias Creative Commons para software.
+> No debería usar licencias Creative Commons para software.
 > Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD, etc.
 > Las licencias de Creative Commons son solo para trabajos intelectuales.
 
-The easiest way for finding the right CC License for your project is the
-[Creative Commons website](https://creativecommons.org/choose/).
-
-La manera más facil de encontrar la licencia CC adecuada para tu proyecto es en el
+La manera más facil de encontrar la licencia CC adecuada para su proyecto es en el
 [sitio web Creative Commons](https://creativecommons.org/choose/).
 
-Here we present two types of CC Licenses:
+Aqui le presentamos dos tipos de licencias CC:
+* [Atribución/Reconocimiento 4.0 Internacional](#cc-attribution-40-international)
 
-* [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
+* [Atribución/Reconocimiento-CompartirIgual 4.0 Internacional](#cc-attribution-sharealike-40-international)
 
-* [Creative Commons Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
+Se puede obtener más información sobre licencias y textos de licencias con formato de texto sin formato
+en https://choosealicense.com/.
 
-More information about licenses, and plain-text formatted licenses texts can be
-found on https://choosealicense.com/.
+Si quiere descargar la versión vectorizada de las imagenes de Creative Commons
+y otras por favor visite https://creativecommons.org/about/downloads/.
 
-If you want to download vectorized version of Creative Commons images and other
-related stuff, please visit https://creativecommons.org/about/downloads/.
+## Atribución/Reconocimiento 4.0 Internacional
 
-
-## CC Attribution 4.0 International
+Para agregar una licencia CC BY a su proyecto, simplemente agregue lo siguiente a su
+`README.md`. También debe copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y 
+renombrarlo a `LICENSE`.
 
 To add a CC BY License to your project, just add the following to your
 `README.md`. You should also copy the corresponding [license text
