@@ -1,6 +1,6 @@
 # Creative Commons Licenses für GitHub-Projekte
 
-[![Main](https://img.shields.io/badge/main%20language-EN-blue)](/)
+[![Main](https://img.shields.io/badge/main%20language-EN-blue)](/#)
 
 In diesem Repo lernen Sie einfache Möglichkeiten kennen, um Creative Commons-Lizenzen auf
 Github-Repositories per Markdown-Sprache anzuwenden.
