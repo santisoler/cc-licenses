@@ -102,6 +102,6 @@ International License][cc-by-sa].
     <td><a href="[DE] German/de_README.md">README</a></td>
     <td><a href="[DE] German/de_LICENSE-CC-BY">CC BY</a></td>
     <td><a href="[DE] German/de_LICENSE-CC-BY-SA">CC BY-SA</a></td>
-    <td><em>Created by <a href="https://github.com/Cyb3rKo">Cyb3rko</a></em></td>
+    <td><em>Created by <a href="https://github.com/cyb3rko">Cyb3rko</a></em></td>
 	</tr>
 </table>
