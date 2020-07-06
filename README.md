@@ -1,48 +1,39 @@
 # Creative Commons Licenses for GitHub Projects
 
-* [CC Attribution 4.0 International](#cc-attribution-40-international)
-* [CC Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
-* [Translations](#translations)
+[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/README.md)
 
 ---
 
-In this repo you can find easy ways for applying Creative Commons Licenses on
-Github repositories through Markdown language.
+In this repo you can find easy ways for applying Creative Commons Licenses on Github repositories through Markdown language.
 
 > **WARNING:**
-> Your shouldn't use Creative Commons licenses for software.
+> You shouldn't use Creative Commons licenses for software.
 > Use Free Software Licenses for that kind of repositories, like GPL, BSD, etc.
 > Creative Commons Licenses are ment for intellectual works only.
 
 
-The easiest way for finding the right CC License for your project is the
-[Creative Commons website](https://creativecommons.org/choose/).
+The easiest way for finding the right CC License for your project is the [Creative Commons website](https://creativecommons.org/choose/).
 
 Here we present two types of CC Licenses:
 
-* Creative Commons Attribution 4.0 International
+* [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
 
-* Creative Commons Attribution-ShareAlike 4.0 International
+* [Creative Commons Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
 
-More information about licenses, and plain-text formatted licenses texts can
-be found on https://choosealicense.com/.
+More information about licenses, and plain-text formatted licenses texts can be found on https://choosealicense.com/.
 
-If you want to download vectorized version of Creative Commons images and other related
-stuff, please visit https://creativecommons.org/about/downloads/.
+If you want to download vectorized version of Creative Commons images and other related stuff, please visit https://creativecommons.org/about/downloads/.
 
 
 ## CC Attribution 4.0 International
 
 To add a CC BY License to your project, just add the following to your `README.md`.
-You should also copy the corresponding
-[license text file](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY)
-and rename it to `LICENSE`.
+You should also copy the corresponding [license text file](LICENSE-CC-BY) and rename it to `LICENSE`.
 
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -53,8 +44,7 @@ License][cc-by].
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -65,16 +55,12 @@ License][cc-by].
 
 ## CC Attribution-ShareAlike 4.0 International
 
-To add a CC BY-SA License to your project, just add the following to your `README.md`.
-You should also copy the corresponding
-[license text file](https://github.com/santisoler/cc-licenses/blob/master/LICENSE-CC-BY-SA)
-and rename it to `LICENSE`.
+To add a CC BY-SA License to your project, just add the following to your `README.md`. You should also copy the corresponding [license text file](LICENSE-CC-BY-SA) and rename it to `LICENSE`.
 
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
@@ -85,23 +71,10 @@ International License][cc-by-sa].
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
-International License][cc-by-sa].
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-## Translations
-
-<table>
-  <tr>
-    <td><img src="https://flaglane.com/download/german-flag/german-flag-graphic.png" width="32"/></td>
-    <td><a href="[DE] German/de_README.md">README</a></td>
-    <td><a href="[DE] German/de_LICENSE-CC-BY">CC BY</a></td>
-    <td><a href="[DE] German/de_LICENSE-CC-BY-SA">CC BY-SA</a></td>
-    <td><em>Created by <a href="https://github.com/cyb3rko">Cyb3rko</a></em></td>
-	</tr>
-</table>

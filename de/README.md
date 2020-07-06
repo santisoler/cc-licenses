@@ -1,11 +1,5 @@
 # Creative Commons Licenses für GitHub-Projekte
 
-* [CC Attribution 4.0 International](#cc-namensnennung-40-international)
-* [CC Attribution-ShareAlike 4.0 International](#cc-namensnennung---weitergabe-unter-gleichen-bedingungen-40-international)
-* [Übersetzungen](#übersetzungen)
-
----
-
 In diesem Repo lernen Sie einfache Möglichkeiten kennen, um Creative Commons-Lizenzen auf
 Github-Repositories per Markdown-Sprache anzuwenden.
 
@@ -30,7 +24,7 @@ Wenn Sie eine vektorisierte Version von Creative Commons-Bildern und anderem zug
 
 ## CC Namensnennung 4.0 International
 
-Um eine CC BY-Lizenz zu Ihrem Projekt hinzuzufügen, fügen Sie einfach das Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende [Lizenztextdatei](de_LICENSE-CC-BY) kopieren und sie zu `LICENSE` umbenennen.
+Um eine CC BY-Lizenz zu Ihrem Projekt hinzuzufügen, fügen Sie einfach das Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende [Lizenztextdatei](LICENSE-CC-BY) kopieren und sie zu `LICENSE` umbenennen.
 
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -57,7 +51,7 @@ Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung 4
 
 ## CC Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International
 
-Um eine CC BY-SA-Lizenz zu Ihrem Projekt hinzuzufügen, fügen Sie einfach das Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende [Lizenztextdatei](de_LICENSE-CC-BY-SA) kopieren und sie zu `LICENSE` umbenennen.
+Um eine CC BY-SA-Lizenz zu Ihrem Projekt hinzuzufügen, fügen Sie einfach das Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende [Lizenztextdatei](LICENSE-CC-BY-SA) kopieren und sie zu `LICENSE` umbenennen.
 
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
@@ -80,7 +74,3 @@ Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung -
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/deed.de
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-## Übersetzungen
-
-Die Übersicht der verfügbaren Übersetzungen kann [HIER](https://github.com/santisoler/cc-licenses/blob/master/README.md#translations) eingesehen werden.
