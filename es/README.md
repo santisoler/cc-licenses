@@ -31,15 +31,10 @@ Para agregar una licencia CC BY a su proyecto, simplemente agregue lo siguiente 
 `README.md`. También debe copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y 
 renombrarlo a `LICENSE`.
 
-To add a CC BY License to your project, just add the following to your
-`README.md`. You should also copy the corresponding [license text
-file](LICENSE-CC-BY) and rename it to `LICENSE`.
-
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+Este trabajo está licenciado bajo una [Atribución/Reconocimiento 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -50,8 +45,7 @@ This work is licensed under a
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+Este trabajo está licenciado bajo una [Atribución/Reconocimiento 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
