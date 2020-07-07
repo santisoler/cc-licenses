@@ -3,10 +3,10 @@
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
 En este repositorio podrás encontrar formas sencillas de aplicar Licencias Creative Commons
-en repositorios Github a través del lenguaje Markdown.
+en repositorios de Github a través del lenguaje Markdown.
 
 > **ADVERTENCIA:**
-> No deberías usar licencias Creative Commons para software.
+> No debes utilizar licencias Creative Commons para software.
 > Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD, etc.
 > Las licencias de Creative Commons son solo para trabajos intelectuales.
 
@@ -14,15 +14,15 @@ La manera más facil de encontrar la licencia CC adecuada para tu proyecto es en
 [sitio web Creative Commons](https://creativecommons.org/choose/).
 
 Aqui te presentamos dos tipos de licencias CC:
-* [Creative Commons Atribución/Reconocimiento 4.0 Internacional](#cc-atribuciónreconocimiento-40-internacional)
+* [Creative Commons Atribución 4.0 Internacional](#cc-atribución-40-internacional)
 
-* [Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Internacional](#cc-atribuciónreconocimiento-CompartirIgual-40-internacional)
+* [Creative Commons Atribución-CompartirIgual 4.0 Internacional](#cc-atribución-compartirigual-40-internacional)
 
 Se puede obtener más información sobre licencias y textos de licencias con formato de texto sin formato
 en https://choosealicense.com/.
 
 Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
-y otras por favor visita https://creativecommons.org/about/downloads/.
+y otras, por favor visita https://creativecommons.org/about/downloads/.
 
 ## CC Atribución/Reconocimiento 4.0 Internacional
 
@@ -33,7 +33,7 @@ renombrarlo a `LICENSE`.
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional][cc-by].
+Este trabajo está licenciado bajo [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -44,7 +44,7 @@ Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Recono
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional][cc-by].
+Este trabajo está licenciado bajo [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -53,7 +53,7 @@ Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Recono
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-## CC Atribución/Reconocimiento-CompartirIgual 4.0 Internacional
+## CC Atribución-CompartirIgual 4.0 Internacional
 Para agregar una licencia CC BY-SA a tu proyecto, simplemente agrega lo siguiente a tu
 `README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY-SA) de la licencia correspondiente y
 renombrarlo a `LICENSE`.
@@ -62,7 +62,7 @@ renombrarlo a `LICENSE`.
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Este trabajo está licenciado bajo
-[Licencia Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Internacional][cc-by-sa].
+[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
@@ -73,7 +73,7 @@ Este trabajo está licenciado bajo
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Este trabajo está licenciado bajo [ Licencia Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Internacional][cc-by-sa].
+Este trabajo está licenciado bajo [ Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
