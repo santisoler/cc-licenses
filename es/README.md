@@ -53,7 +53,7 @@ Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Recono
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-## CC Atribución/Reconocimiento-CompartirIgual 4.0
+## CC Atribución/Reconocimiento-CompartirIgual 4.0 Internacional
 Para agregar una licencia CC BY-SA a su proyecto, simplemente agregue lo siguiente a su
 `README.md`. También debe copiar el [archivo de texto](LICENSE-CC-BY-SA) de la licencia correspondiente y
 renombrarlo a `LICENSE`.
