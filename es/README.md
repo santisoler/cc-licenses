@@ -2,18 +2,18 @@
 
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
-En este repositorio podrá encontrar formas sencillas de aplicar Licencias Creative Commons
+En este repositorio podrás encontrar formas sencillas de aplicar Licencias Creative Commons
 en repositorios Github a través del lenguaje Markdown.
 
 > **ADVERTENCIA:**
-> No debería usar licencias Creative Commons para software.
+> No deberías usar licencias Creative Commons para software.
 > Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD, etc.
 > Las licencias de Creative Commons son solo para trabajos intelectuales.
 
-La manera más facil de encontrar la licencia CC adecuada para su proyecto es en el
+La manera más facil de encontrar la licencia CC adecuada para tu proyecto es en el
 [sitio web Creative Commons](https://creativecommons.org/choose/).
 
-Aqui le presentamos dos tipos de licencias CC:
+Aqui te presentamos dos tipos de licencias CC:
 * [Creative Commons Atribución/Reconocimiento 4.0 Internacional](#cc-atribuciónreconocimiento-40-internacional)
 
 * [Creative Commons Atribución/Reconocimiento-CompartirIgual 4.0 Internacional](#cc-atribuciónreconocimiento-CompartirIgual-40-internacional)
@@ -21,13 +21,13 @@ Aqui le presentamos dos tipos de licencias CC:
 Se puede obtener más información sobre licencias y textos de licencias con formato de texto sin formato
 en https://choosealicense.com/.
 
-Si quiere descargar la versión vectorizada de las imagenes de Creative Commons
-y otras por favor visite https://creativecommons.org/about/downloads/.
+Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
+y otras por favor visita https://creativecommons.org/about/downloads/.
 
 ## CC Atribución/Reconocimiento 4.0 Internacional
 
-Para agregar una licencia CC BY a su proyecto, simplemente agregue lo siguiente a su
-`README.md`. También debe copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y 
+Para agregar una licencia CC BY a tu proyecto, simplemente agrega lo siguiente a tu
+`README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y
 renombrarlo a `LICENSE`.
 
 ```markdown
@@ -54,8 +54,8 @@ Este trabajo está licenciado bajo [Licencia Creative Commons Atribución/Recono
 
 
 ## CC Atribución/Reconocimiento-CompartirIgual 4.0 Internacional
-Para agregar una licencia CC BY-SA a su proyecto, simplemente agregue lo siguiente a su
-`README.md`. También debe copiar el [archivo de texto](LICENSE-CC-BY-SA) de la licencia correspondiente y
+Para agregar una licencia CC BY-SA a tu proyecto, simplemente agrega lo siguiente a tu
+`README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY-SA) de la licencia correspondiente y
 renombrarlo a `LICENSE`.
 
 ```markdown
