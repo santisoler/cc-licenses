@@ -18,7 +18,7 @@ Aqui te presentamos dos tipos de licencias CC:
 
 * [Creative Commons Atribución-CompartirIgual 4.0 Internacional](#cc-atribución-compartirigual-40-internacional)
 
-Se puede obtener más información sobre licencias y textos de licencias con formato de texto sin formato
+Puedes obtener más información sobre licencias y textos de licencias con formato de texto plano
 en https://choosealicense.com/.
 
 Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
