@@ -1,6 +1,7 @@
 # Creative Commons Licenses for GitHub Projects
 
-[![Deutsch](https://img.shields.io/badge/translation-DE-red)](de/)
+[![German](https://img.shields.io/badge/translation-DE-red)](de/)
+[![Spanish](https://img.shields.io/badge/translation-ES-red)](es/)
 
 In this repo you can find easy ways for applying Creative Commons Licenses on
 Github repositories through Markdown language.
