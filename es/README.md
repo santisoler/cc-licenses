@@ -24,7 +24,7 @@ en https://choosealicense.com/.
 Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
 y otras, por favor visita https://creativecommons.org/about/downloads/.
 
-## CC Atribución/Reconocimiento 4.0 Internacional
+## CC Atribución 4.0 Internacional
 
 Para agregar una licencia CC BY a tu proyecto, simplemente agrega lo siguiente a tu
 `README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y
