@@ -2,38 +2,39 @@
 
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
-En este repositorio podrás encontrar formas sencillas de aplicar Licencias Creative Commons
-en repositorios de Github a través del lenguaje Markdown.
+En este repositorio podrás encontrar formas sencillas de aplicar Licencias
+Creative Commons en repositorios de Github a través del lenguaje Markdown.
 
 > **ADVERTENCIA:**
 > No debes utilizar licencias Creative Commons para software.
-> Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD, etc.
-> Las licencias de Creative Commons son solo para trabajos intelectuales.
+> Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD,
+> etc. Las licencias de Creative Commons son solo para trabajos intelectuales.
 
-La manera más fácil de encontrar la licencia CC adecuada para tu proyecto es en el
-[sitio web Creative Commons](https://creativecommons.org/choose/).
+La manera más fácil de encontrar la licencia CC adecuada para tu proyecto es en
+el [sitio web Creative Commons](https://creativecommons.org/choose/).
 
 Aquí te presentamos dos tipos de licencias CC:
 * [Creative Commons Atribución 4.0 Internacional](#cc-atribución-40-internacional)
 
 * [Creative Commons Atribución-CompartirIgual 4.0 Internacional](#cc-atribución-compartirigual-40-internacional)
 
-Puedes obtener más información sobre licencias y sus textos completos en texto plano
-en https://choosealicense.com/.
+Puedes obtener más información sobre licencias y sus textos completos en texto
+plano en https://choosealicense.com/.
 
 Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
 y otras, por favor visita https://creativecommons.org/about/downloads/.
 
 ## CC Atribución 4.0 Internacional
 
-Para agregar una licencia CC BY a tu proyecto, simplemente agrega lo siguiente a tu
-`README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY) de la licencia correspondiente y
-renombrarlo a `LICENSE`.
+Para agregar una licencia CC BY a tu proyecto, simplemente agrega lo siguiente
+a tu `README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY) de
+la licencia correspondiente y renombrarlo a `LICENSE`.
 
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+Esta obra está bajo una
+[Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -44,7 +45,8 @@ Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internaciona
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+Esta obra está bajo una
+[Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -54,14 +56,17 @@ Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internaciona
 
 
 ## CC Atribución-CompartirIgual 4.0 Internacional
-Para agregar una licencia CC BY-SA a tu proyecto, simplemente agrega lo siguiente a tu
-`README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY-SA) de la licencia correspondiente y
-renombrarlo a `LICENSE`.
+
+Para agregar una licencia CC BY-SA a tu proyecto, simplemente agrega lo
+siguiente a tu `README.md`. También debes copiar el [archivo de
+texto](LICENSE-CC-BY-SA) de la licencia correspondiente y renombrarlo
+a `LICENSE`.
 
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+Esta obra está bajo una
+[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
@@ -72,7 +77,8 @@ Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+Esta obra está bajo una
+[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
