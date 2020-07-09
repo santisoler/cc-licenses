@@ -61,8 +61,7 @@ renombrarlo a `LICENSE`.
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Esta obra está bajo una
-[Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
