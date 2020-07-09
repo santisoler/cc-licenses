@@ -10,15 +10,15 @@ en repositorios de Github a través del lenguaje Markdown.
 > Usa licencias de software libre para ese tipo de repositorios, como GPL, BSD, etc.
 > Las licencias de Creative Commons son solo para trabajos intelectuales.
 
-La manera más facil de encontrar la licencia CC adecuada para tu proyecto es en el
+La manera más fácil de encontrar la licencia CC adecuada para tu proyecto es en el
 [sitio web Creative Commons](https://creativecommons.org/choose/).
 
-Aqui te presentamos dos tipos de licencias CC:
+Aquí te presentamos dos tipos de licencias CC:
 * [Creative Commons Atribución 4.0 Internacional](#cc-atribución-40-internacional)
 
 * [Creative Commons Atribución-CompartirIgual 4.0 Internacional](#cc-atribución-compartirigual-40-internacional)
 
-Se puede obtener más información sobre licencias y textos de licencias con formato de texto sin formato
+Se puede obtener más información sobre licencias y sus textos completos
 en https://choosealicense.com/.
 
 Si quieres descargar la versión vectorizada de las imagenes de Creative Commons
@@ -33,7 +33,7 @@ renombrarlo a `LICENSE`.
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Este trabajo está licenciado bajo [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -44,7 +44,7 @@ Este trabajo está licenciado bajo [Licencia Creative Commons Atribución 4.0 In
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Este trabajo está licenciado bajo [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
+Esta obra está bajo una [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
@@ -61,7 +61,7 @@ renombrarlo a `LICENSE`.
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Este trabajo está licenciado bajo
+Esta obra está bajo una
 [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
@@ -73,7 +73,7 @@ Este trabajo está licenciado bajo
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-Este trabajo está licenciado bajo [ Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
+Esta obra está bajo una [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
