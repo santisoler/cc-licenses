@@ -1,4 +1,4 @@
-# Creative Commons Licenses für GitHub-Projekte
+# Creative Commons-Lizenzen für GitHub-Projekte
 
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
