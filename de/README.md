@@ -1,4 +1,4 @@
-# Creative Commons Licenses für GitHub-Projekte
+# Creative Commons-Lizenzen für GitHub-Projekte
 
 [![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
@@ -17,10 +17,8 @@ Der einfachste Weg um die richtige CC-Lizenz für Ihr Projekt zu finden ist die
 Hier präsentieren wir zwei Typen von CC-Lizenzen:
 
 * [Creative Commons Namensnennung 4.0 International](#cc-namensnennung-40-international)
-  (Creative Commons Attribution 4.0 International)
 
-* [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International](#cc-namensnennung---weitergabe-unter-gleichen-bedingungen-40-international)
-  (Creative Commons Attribution-ShareAlike 4.0 International)
+* [Creative Commons Namensnennung-Share Alike 4.0 International](#cc-namensnennung-share-alike-40-international)
 
 Weitere Information über Lizenzen und in Klartext formatierte Lizenz-Texte
 können hier gefunden werden: https://choosealicense.com/
@@ -61,7 +59,7 @@ Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 
-## CC Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International
+## CC Namensnennung-Share Alike 4.0 International
 
 Um eine CC BY-SA-Lizenz zu Ihrem Projekt hinzuzufügen, fügen Sie einfach das
 Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
@@ -71,7 +69,7 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International-Lizenz][cc-by].
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
@@ -83,7 +81,7 @@ Diese Arbeit unterliegt den Bestimmungen einer
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
-[Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International-Lizenz][cc-by-sa].
+[Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
