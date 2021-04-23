@@ -9,7 +9,7 @@ Github repositories through Markdown language.
 > **WARNING:**
 > You shouldn't use Creative Commons licenses for software.
 > Use Free Software Licenses for that kind of repositories, like GPL, BSD, etc.
-> Creative Commons Licenses are ment for intellectual works only.
+> Creative Commons Licenses are meant for intellectual works only.
 
 
 The easiest way for finding the right CC License for your project is the
