@@ -15,7 +15,7 @@ Github repositories through Markdown language.
 The easiest way for finding the right CC License for your project is the
 [Creative Commons website](https://creativecommons.org/choose/).
 
-Here we present two types of CC Licenses:
+Here we present three types of CC Licenses:
 
 * [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
 
