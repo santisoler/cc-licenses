@@ -1,39 +1,31 @@
-# Creative Commons Licenses for GitHub Projects
+# Licenze Creative Commons Licenses per progetti GitHub
 
-[![German](https://img.shields.io/badge/translation-DE-red)](de/)
-[![Spanish](https://img.shields.io/badge/translation-ES-red)](es/)
-[![Italian](https://img.shields.io/badge/translation-IT-red)](it/)
+[![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
 
-In this repo you can find easy ways for applying Creative Commons Licenses on
-Github repositories through Markdown language.
+In questo repo troverai dei modi facili di applicare le licenze Creative Commons ai repository attraverso il linguaggio Markdown.
 
-> **WARNING:**
-> You shouldn't use Creative Commons licenses for software.
-> Use Free Software Licenses for that kind of repositories, like GPL, BSD, etc.
-> Creative Commons Licenses are meant for intellectual works only.
+> **ATTENZIONE:**
+> Tu non dovrai usare le licenze Creative Commons per i programmi.
+> Usa le licenze Free Software per questi tipi di repository, come ad esempio GPL, BSD, ecc.
+> Le licenze Creative Commons sono pensate solo per le opere intellettuali.
 
+Il modo più semplice per trovare la giusta licenza CC per il tuo progetto è il
+[sito Creative Commons](https://creativecommons.org/choose/?lang=it).
 
-The easiest way for finding the right CC License for your project is the
-[Creative Commons website](https://creativecommons.org/choose/).
-
-Here we present two types of CC Licenses:
+Qui vi presento due tipi di licenze CC:
 
 * [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
 
 * [Creative Commons Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
 
-More information about licenses, and plain-text formatted licenses texts can be
-found on https://choosealicense.com/.
+Ulteriori informazioni sulle licenze ed i testi delle licenze formattate in ```plain text``` possono essere trovate sul sito https://choosealicense.com/.
 
-If you want to download vectorized version of Creative Commons images and other
-related stuff, please visit https://creativecommons.org/about/downloads/.
+Se tu vuoi scaricare una versione vettoriale delle immagini Creative Commons ed altre cose relative, visita il sito https://creativecommons.org/about/downloads/.
 
 
 ## CC Attribution 4.0 International
 
-To add a CC BY License to your project, just add the following to your
-`README.md`. You should also copy the corresponding [license text
-file](LICENSE-CC-BY) and rename it to `LICENSE`.
+Per aggiungere una licenza CC BY al tuo progetto, ti basta aggiunge il seguente testo al tuo file `README.md`. Dovrai inoltre copiare il corrispondente [file di testo della licenza](LICENSE-CC-BY) e rinominarlo in `LICENSE`.
 
 ```markdown
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -62,9 +54,7 @@ This work is licensed under a
 
 ## CC Attribution-ShareAlike 4.0 International
 
-To add a CC BY-SA License to your project, just add the following to your
-`README.md`. You should also copy the corresponding [license text
-file](LICENSE-CC-BY-SA) and rename it to `LICENSE`.
+Per aggiungere una licenza CC BY-SA al tuo progetto, ti basterà aggiungere il seguente testo al tuo file `README.md`. Dovrai inoltre copiare il corrispondente [file di testo della licenza](LICENSE-CC-BY-SA) e rinominarlo in `LICENSE`.
 
 ```markdown
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
