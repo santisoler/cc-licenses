@@ -15,11 +15,13 @@ Github repositories through Markdown language.
 The easiest way for finding the right CC License for your project is the
 [Creative Commons website](https://creativecommons.org/choose/).
 
-Here we present two types of CC Licenses:
+Here we present three types of CC Licenses:
 
 * [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
 
 * [Creative Commons Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
+
+* [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](#cc-attribution-noncommercial-sharealike-40-international)
 
 More information about licenses, and plain-text formatted licenses texts can be
 found on https://choosealicense.com/.
@@ -88,3 +90,35 @@ International License][cc-by-sa].
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
+
+## CC Attribution-NonCommercial-ShareAlike 4.0 International
+
+To add a CC BY-NC-SA License to your project, just add the following to your
+`README.md`. You should also copy the corresponding [license text
+file](LICENSE-CC-BY-NC-SA) and rename it to `LICENSE`.
+
+```markdown
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+```
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
