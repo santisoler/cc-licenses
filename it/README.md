@@ -14,11 +14,11 @@ Il modo più semplice per trovare la giusta licenza CC per il tuo progetto è il
 
 Qui vi presento tre tipi di licenze CC:
 
-* [Creative Commons Attribuzione 4.0 Internazionale](#cc-attribution-40-international)
+* [Creative Commons Attribuzione 4.0 Internazionale](#cc-attribuzione-40-internazionale)
 
-* [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](#cc-attribution-sharealike-40-international)
+* [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](#cc-attribuzione---condividi-allo-stesso-modo-40-internazionale)
 
-* [Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale](#cc-attribution-noncommercial-sharealike-40-international)
+* [Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale](#cc-attribuzione---non-commerciale---condividi-allo-stesso-modo-40-internazionale)
 
 Ulteriori informazioni sulle licenze ed i testi delle licenze formattate in ```plain text``` possono essere trovate sul sito https://choosealicense.com/.
 
