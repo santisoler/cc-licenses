@@ -31,7 +31,7 @@ a tu `README.md`. También debes copiar el [archivo de texto](LICENSE-CC-BY) de
 la licencia correspondiente y renombrarlo a `LICENSE`.
 
 ```markdown
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Esta obra está bajo una
 [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
@@ -43,7 +43,7 @@ Esta obra está bajo una
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Esta obra está bajo una
 [Licencia Creative Commons Atribución 4.0 Internacional][cc-by].
@@ -63,7 +63,7 @@ texto](LICENSE-CC-BY-SA) de la licencia correspondiente y renombrarlo
 a `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].
@@ -75,7 +75,7 @@ Esta obra está bajo una
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Esta obra está bajo una
 [Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional][cc-by-sa].

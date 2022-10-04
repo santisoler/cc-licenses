@@ -37,7 +37,7 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 [Lizenztextdatei](LICENSE-CC-BY) kopieren und sie zu `LICENSE` umbenennen.
 
 ```markdown
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung 4.0 International-Lizenz][cc-by].
@@ -49,7 +49,7 @@ Diese Arbeit unterliegt den Bestimmungen einer
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Namensnennung
 4.0 International-Lizenz][cc-by].
@@ -68,7 +68,7 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 [Lizenztextdatei](LICENSE-CC-BY-SA) kopieren und sie zu `LICENSE` umbenennen.
 
 ```markdown
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by].
@@ -80,7 +80,7 @@ Diese Arbeit unterliegt den Bestimmungen einer
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Share Alike 4.0 International-Lizenz][cc-by-sa].
@@ -98,7 +98,7 @@ Folgende zu Ihrer `README.md` hinzu. Sie sollten auch die entsprechende
 [Lizenztextdatei](LICENSE-CC-BY-NC-SA) kopieren und sie zu `LICENSE` umbenennen.
 
 ```markdown
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz][cc-by-nc-sa].
@@ -110,7 +110,7 @@ Diese Arbeit unterliegt den Bestimmungen einer
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Diese Arbeit unterliegt den Bestimmungen einer
 [Creative Commons Namensnennung-Nicht kommerziell-Share Alike 4.0 International-Lizenz][cc-by-nc-sa].

@@ -40,7 +40,7 @@ To add a CC BY License to your project, just add the following to your
 file](LICENSE-CC-BY) and rename it to `LICENSE`.
 
 ```markdown
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -52,7 +52,7 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
@@ -71,7 +71,7 @@ To add a CC BY-SA License to your project, just add the following to your
 file](LICENSE-CC-BY-SA) and rename it to `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
@@ -83,7 +83,7 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
@@ -103,7 +103,7 @@ To add a CC BY-NC-SA License to your project, just add the following to your
 file](LICENSE-CC-BY-NC-SA) and rename it to `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
@@ -115,7 +115,7 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 International License][cc-by-nc-sa].

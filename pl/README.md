@@ -33,7 +33,7 @@ Aby dodać licencje CC BY do swojego projektu, dodaj poniższe do swojego pliku
 ](LICENSE-CC-BY) i zmienić jego nazwę na `LICENSE`.
 
 ```markdown
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Ten utwór jest dostępny na licencji 
 [Creative Commons Uznanie autorstwa 4.0 Międzynarodowe][cc-by].
@@ -45,7 +45,7 @@ Ten utwór jest dostępny na licencji
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Ten utwór jest dostępny na licencji 
 [Creative Commons Uznanie autorstwa 4.0 Międzynarodowe][cc-by].
@@ -64,7 +64,7 @@ Aby dodać licencje CC BY-SA do swojego projektu, dodaj poniższe do swojego pli
 ](LICENSE-CC-BY-SA) i zmienić jego nazwę na `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Ten utwór jest dostępny na licencji
 [Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe][cc-by-sa].
@@ -76,7 +76,7 @@ Ten utwór jest dostępny na licencji
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Ten utwór jest dostępny na licencji
 [Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0 Międzynarodowe][cc-by-sa].
@@ -96,7 +96,7 @@ Aby dodać licencje CC BY-NC-SA do swojego projektu, dodaj poniższe do swojego 
 ](LICENSE-CC-BY-NC-SA) i zmienić jego nazwę na `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Ten utwór jest dostępny na licencji 
 [Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 4.0 Międzynarodowe][cc-by-nc-sa].
@@ -108,7 +108,7 @@ Ten utwór jest dostępny na licencji
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Ten utwór jest dostępny na licencji [Creative Commons Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach 4.0 Międzynarodowe][cc-by-nc-sa].
 

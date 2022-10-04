@@ -30,7 +30,7 @@ Se tu vuoi scaricare una versione vettoriale delle immagini Creative Commons ed 
 Per aggiungere una licenza CC BY al tuo progetto, ti basta aggiunge il seguente testo al tuo file `README.md`. Dovrai inoltre copiare il corrispondente [file di testo della licenza](LICENSE-CC-BY) e rinominarlo in `LICENSE`.
 
 ```markdown
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Questa opera è sotto 
 [Licenza Creative Commons Attribuzione 4.0 Internazionale][cc-by].
@@ -42,7 +42,7 @@ Questa opera è sotto
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+:shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Questa opera è sotto
 [Licenza Creative Commons Attribuzione 4.0 Internazionale][cc-by].
@@ -59,7 +59,7 @@ Questa opera è sotto
 Per aggiungere una licenza CC BY-SA al tuo progetto, ti basterà aggiungere il seguente testo al tuo file `README.md`. Dovrai inoltre copiare il corrispondente [file di testo della licenza](LICENSE-CC-BY-SA) e rinominarlo in `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Questa opera è sotto 
 [Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale][cc-by-sa].
@@ -71,7 +71,7 @@ Questa opera è sotto
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+:shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 Questa opera è sotto [Licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0
 Internazionale][cc-by-sa].
@@ -87,7 +87,7 @@ Internazionale][cc-by-sa].
 Per aggiungere una licenza CC BY-NC-SA  al tuo progetto, ti basterà aggiungere il seguente testo al tuo file `README.md`.  Dovrai inoltre copiare il corrispondente [file di testo della licenza](LICENSE-CC-BY-NC-SA) e rinominarlo in `LICENSE`.
 
 ```markdown
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Questa opera è sotto 
 [Licenza Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale][cc-by-nc-sa].
@@ -99,7 +99,7 @@ Questa opera è sotto
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 ```
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+:shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 Questa opera è sotto [Licenza Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale][cc-by-nc-sa].
 
