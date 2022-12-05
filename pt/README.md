@@ -1,4 +1,4 @@
-# Licences Creative Commons pour GitHub Projects
+# Licenças Creative Commons para Projetos no GitHub
 
 Neste repositório, você encontrará formas simples de aplicar as licenças
 Creative Commons nos seus repositórios do GitHub em Markdown.
