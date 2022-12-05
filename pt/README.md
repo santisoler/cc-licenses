@@ -1,5 +1,7 @@
 # Licenças Creative Commons para Projetos no GitHub
 
+[![Main](https://img.shields.io/badge/main%20language-EN-blue)](/../../)
+
 Neste repositório, você encontrará formas simples de aplicar as licenças
 Creative Commons nos seus repositórios do GitHub em Markdown.
 
@@ -12,9 +14,10 @@ A forma mais fácil de encontrar a licença Creative Commons que mais bem se
 aplica ao seu trabalho é o website [Creative
 Commons](https://creativecommons.org/choose/).
 
-Nós propomos uma destas três opções:
+Neste repositório, você encontra três opções:
 
 * [Creative Commons Atribuição 4.0 International](#cc-atribuição-40-internacional)
+* [Creative Commons Atribuição-CompartilhaIgual  4.0 International](#cc-atribuição-40-internacional)
 * [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 International](#cc-atribuição---nãocomercial---compartilhaigual-40-international)
 
 Mais informações a respeito destas licenças assim como a versão em texto estão
@@ -50,6 +53,36 @@ Esta obra tem a [licença Creative Commons "Atribuição" 4.0 Internacional][cc-
 [cc-by]: https://creativecommons.org/licenses/by/4.0/deed.pt_BR
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+## CC Atribuição-CompartilhaIgual 4.0 International
+
+Para utilizar a licença CC-BY-SA, adicione o seguinte texto ao seu arquivo
+`README.md` assim como o [arquivo texto](LICENSE-CC-BY-SA) correspondente e
+o renomeie para `LICENSE`.
+
+```markdown
+Shield : [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Esta obra tem a [licença Creative Commons Atribuição-CompartilhaIgual 4.0
+International][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/deed.fr
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+```
+
+Shield : [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Esta obra tem a [licença Creative Commons Atribuição-CompartilhaIgual 4.0 International][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
 ## CC Atribuição-NãoComercial-CompartilhaIgual 4.0 International
