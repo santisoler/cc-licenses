@@ -6,6 +6,7 @@
 [![Polish](https://img.shields.io/badge/translation-PL-red)](pl/)
 [![Spanish](https://img.shields.io/badge/translation-ES-red)](es/)
 [![Portuguese](https://img.shields.io/badge/translation-PT-red)](pt/)
+[![Turkish](https://img.shields.io/badge/translation-TR-red)](tr/)
 
 In this repo you can find easy ways for applying Creative Commons Licenses on
 Github repositories through Markdown language.
