@@ -18,6 +18,8 @@ Aquí te presentamos dos tipos de licencias CC:
 
 * [Creative Commons Atribución-CompartirIgual 4.0 Internacional](#cc-atribución-compartirigual-40-internacional)
 
+* [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional](#cc-atribución-nocomercial-compartirigual-40-internacional)
+
 Puedes obtener más información sobre licencias y sus textos completos en texto
 plano en https://choosealicense.com/.
 
@@ -85,3 +87,34 @@ Esta obra está bajo una
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/deed.es
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+## Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
+
+Para agregar una licencia CC BY-NC-SA a tu proyecto, simplemente agrega lo
+siguiente a tu `README.md`. También debes copiar el [archivo de
+texto](LICENSE-CC-BY-NC-SA) de la licencia correspondiente y renombrarlo
+a `LICENSE`.
+
+```markdown
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+Esta obra está bajo una
+[Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+```
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+Esta obra está bajo una
+[Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
