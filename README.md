@@ -196,7 +196,7 @@ International License][cc-by-nc-sa].
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-# CC Attribution-NonCommercial-NoDerivs 4.0 International
+## CC Attribution-NonCommercial-NoDerivs 4.0 International
 
 To add a CC BY-NC-ND License to your project, just add the following to your
 `README.md`. You should also copy the corresponding [license text
