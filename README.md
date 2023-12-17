@@ -20,13 +20,19 @@ Github repositories through Markdown language.
 The easiest way for finding the right CC License for your project is the
 [Creative Commons website](https://creativecommons.org/choose/).
 
-Here we present three types of CC Licenses:
+Here we present six types of CC Licenses:
 
 * [Creative Commons Attribution 4.0 International](#cc-attribution-40-international)
 
 * [Creative Commons Attribution-ShareAlike 4.0 International](#cc-attribution-sharealike-40-international)
 
+* [Creative Commons Attribution-NonCommercial 4.0 International](#cc-attribution-noncommercial-40-international)
+
+* [Creative Commons Attribution-NoDerivs 4.0 International](#cc-attribution-noderivs-40-international)
+
 * [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](#cc-attribution-noncommercial-sharealike-40-international)
+
+* [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International](#cc-attribution-noncommercial-noderivs-40-international)
 
 More information about licenses, and plain-text formatted licenses texts can be
 found on https://choosealicense.com/.
@@ -97,6 +103,67 @@ International License][cc-by-sa].
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
+## CC Attribution-NonCommercial 4.0 International
+
+To add a CC BY-NC License to your project, just add the following to your
+`README.md`. You should also copy the corresponding [license text
+file](LICENSE-CC-BY-NC) and rename it to `LICENSE`.
+
+```markdown
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+```
+
+Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
+
+
+## CC Attribution-NoDerivs 4.0 International
+
+To add a CC BY-ND License to your project, just add the following to your
+`README.md`. You should also copy the corresponding [license text
+file](LICENSE-CC-BY-ND) and rename it to `LICENSE`.
+
+```markdown
+Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+
+This work is licensed under a
+[Creative Commons Attribution-NoDerivs 4.0 International License][cc-by-nd].
+
+[![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd]
+
+[cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
+[cc-by-nd-image]: https://licensebuttons.net/l/by-nd/4.0/88x31.png
+[cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+```
+
+Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
+
+This work is licensed under a
+[Creative Commons Attribution-NoDerivs 4.0 International License][cc-by-nd].
+
+[![CC BY-ND 4.0][cc-by-nd-image]][cc-by-nd]
+
+[cc-by-nd]: https://creativecommons.org/licenses/by-nd/4.0/
+[cc-by-nd-image]: https://licensebuttons.net/l/by-nd/4.0/88x31.png
+[cc-by-nd-shield]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg
+
 
 ## CC Attribution-NonCommercial-ShareAlike 4.0 International
 
@@ -127,6 +194,36 @@ International License][cc-by-nc-sa].
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
+# CC Attribution-NonCommercial-NoDerivs 4.0 International
+
+To add a CC BY-NC-ND License to your project, just add the following to your
+`README.md`. You should also copy the corresponding [license text
+file](LICENSE-CC-BY-NC-ND) and rename it to `LICENSE`.
+
+```markdown
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+```
+Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 
 
 ---
